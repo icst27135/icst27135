@@ -1,0 +1,1712 @@
+{
+  "gpt-5/syntactic/n=2": {
+    "median": 1.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5819,
+    "count": 479
+  },
+  "gpt-5/syntactic/n=3": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8705,
+    "count": 56
+  },
+  "gpt-5/syntactic/n=4": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8977,
+    "count": 22
+  },
+  "gpt-5/syntactic/n=5": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-5/syntactic/n=6": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-5/semantic/n=2": {
+    "median": 0.8571,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6064,
+    "count": 499
+  },
+  "gpt-5/semantic/n=3": {
+    "median": 1.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6124,
+    "count": 491
+  },
+  "gpt-5/semantic/n=4": {
+    "median": 1.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6468,
+    "count": 442
+  },
+  "gpt-5/semantic/n=5": {
+    "median": 1.0,
+    "q1": 0.1667,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6886,
+    "count": 389
+  },
+  "gpt-5/semantic/n=6": {
+    "median": 1.0,
+    "q1": 0.5,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.7415,
+    "count": 245
+  },
+  "claude-opus-4-7/syntactic/n=2": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8016,
+    "count": 399
+  },
+  "claude-opus-4-7/syntactic/n=3": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8251,
+    "count": 324
+  },
+  "claude-opus-4-7/syntactic/n=4": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8492,
+    "count": 262
+  },
+  "claude-opus-4-7/syntactic/n=5": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8762,
+    "count": 206
+  },
+  "claude-opus-4-7/syntactic/n=6": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8713,
+    "count": 136
+  },
+  "claude-opus-4-7/semantic/n=2": {
+    "median": 1.0,
+    "q1": 0.3333,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.7224,
+    "count": 497
+  },
+  "claude-opus-4-7/semantic/n=3": {
+    "median": 1.0,
+    "q1": 0.3333,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.7228,
+    "count": 495
+  },
+  "claude-opus-4-7/semantic/n=4": {
+    "median": 1.0,
+    "q1": 0.4,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.7375,
+    "count": 475
+  },
+  "claude-opus-4-7/semantic/n=5": {
+    "median": 1.0,
+    "q1": 0.6667,
+    "q3": 1.0,
+    "whisker_min": 0.2,
+    "whisker_max": 1.0,
+    "mean": 0.7615,
+    "count": 441
+  },
+  "claude-opus-4-7/semantic/n=6": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8101,
+    "count": 358
+  },
+  "claude-4-sonnet/syntactic/n=2": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8064,
+    "count": 113
+  },
+  "claude-4-sonnet/syntactic/n=3": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8,
+    "count": 35
+  },
+  "claude-4-sonnet/syntactic/n=4": {
+    "median": 1.0,
+    "q1": 0.5,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6667,
+    "count": 3
+  },
+  "claude-4-sonnet/syntactic/n=5": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 1.0,
+    "count": 1
+  },
+  "claude-4-sonnet/syntactic/n=6": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "claude-4-sonnet/semantic/n=2": {
+    "median": 0.8333,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5919,
+    "count": 498
+  },
+  "claude-4-sonnet/semantic/n=3": {
+    "median": 1.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6002,
+    "count": 488
+  },
+  "claude-4-sonnet/semantic/n=4": {
+    "median": 1.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6344,
+    "count": 441
+  },
+  "claude-4-sonnet/semantic/n=5": {
+    "median": 1.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6716,
+    "count": 373
+  },
+  "claude-4-sonnet/semantic/n=6": {
+    "median": 1.0,
+    "q1": 0.1667,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6852,
+    "count": 135
+  },
+  "gpt-4o/syntactic/n=2": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8,
+    "count": 30
+  },
+  "gpt-4o/syntactic/n=3": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-4o/syntactic/n=4": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-4o/syntactic/n=5": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-4o/syntactic/n=6": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-4o/semantic/n=2": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 0.75,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.3007,
+    "count": 488
+  },
+  "gpt-4o/semantic/n=3": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.3395,
+    "count": 403
+  },
+  "gpt-4o/semantic/n=4": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.3685,
+    "count": 279
+  },
+  "gpt-4o/semantic/n=5": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.4092,
+    "count": 159
+  },
+  "gpt-4o/semantic/n=6": {
+    "median": 0.5,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5022,
+    "count": 77
+  },
+  "claude-3-5-sonnet/syntactic/n=2": {
+    "median": 1.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.7222,
+    "count": 72
+  },
+  "claude-3-5-sonnet/syntactic/n=3": {
+    "median": 1.0,
+    "q1": 0.75,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.75,
+    "count": 16
+  },
+  "claude-3-5-sonnet/syntactic/n=4": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "claude-3-5-sonnet/syntactic/n=5": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "claude-3-5-sonnet/syntactic/n=6": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "claude-3-5-sonnet/semantic/n=2": {
+    "median": 0.1429,
+    "q1": 0.0,
+    "q3": 0.8571,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.383,
+    "count": 497
+  },
+  "claude-3-5-sonnet/semantic/n=3": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.4053,
+    "count": 462
+  },
+  "claude-3-5-sonnet/semantic/n=4": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.4367,
+    "count": 362
+  },
+  "claude-3-5-sonnet/semantic/n=5": {
+    "median": 0.4,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.478,
+    "count": 245
+  },
+  "claude-3-5-sonnet/semantic/n=6": {
+    "median": 0.8333,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5615,
+    "count": 122
+  },
+  "devstral-2-123b/syntactic/n=2": {
+    "median": 1.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5513,
+    "count": 78
+  },
+  "devstral-2-123b/syntactic/n=3": {
+    "median": 1.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6786,
+    "count": 28
+  },
+  "devstral-2-123b/syntactic/n=4": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8,
+    "count": 10
+  },
+  "devstral-2-123b/syntactic/n=5": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 1.0,
+    "count": 5
+  },
+  "devstral-2-123b/syntactic/n=6": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 1.0,
+    "count": 1
+  },
+  "devstral-2-123b/semantic/n=2": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 0.8393,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.321,
+    "count": 488
+  },
+  "devstral-2-123b/semantic/n=3": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.3302,
+    "count": 458
+  },
+  "devstral-2-123b/semantic/n=4": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.3488,
+    "count": 360
+  },
+  "devstral-2-123b/semantic/n=5": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.3265,
+    "count": 259
+  },
+  "devstral-2-123b/semantic/n=6": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 0.8333,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.277,
+    "count": 145
+  },
+  "kimi-k2-instruct/syntactic/n=2": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.4641,
+    "count": 487
+  },
+  "kimi-k2-instruct/syntactic/n=3": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8627,
+    "count": 51
+  },
+  "kimi-k2-instruct/syntactic/n=4": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.85,
+    "count": 20
+  },
+  "kimi-k2-instruct/syntactic/n=5": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 1.0,
+    "count": 4
+  },
+  "kimi-k2-instruct/syntactic/n=6": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 1.0,
+    "count": 1
+  },
+  "kimi-k2-instruct/semantic/n=2": {
+    "median": 0.6667,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5261,
+    "count": 497
+  },
+  "kimi-k2-instruct/semantic/n=3": {
+    "median": 0.8,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5564,
+    "count": 461
+  },
+  "kimi-k2-instruct/semantic/n=4": {
+    "median": 1.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6284,
+    "count": 358
+  },
+  "kimi-k2-instruct/semantic/n=5": {
+    "median": 1.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6655,
+    "count": 228
+  },
+  "kimi-k2-instruct/semantic/n=6": {
+    "median": 1.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6926,
+    "count": 77
+  },
+  "qwen3-32b/syntactic/n=2": {
+    "median": 0.8333,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.523,
+    "count": 47
+  },
+  "qwen3-32b/syntactic/n=3": {
+    "median": 1.0,
+    "q1": 0.375,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.7149,
+    "count": 19
+  },
+  "qwen3-32b/syntactic/n=4": {
+    "median": 1.0,
+    "q1": 0.8333,
+    "q3": 1.0,
+    "whisker_min": 0.75,
+    "whisker_max": 1.0,
+    "mean": 0.8426,
+    "count": 9
+  },
+  "qwen3-32b/syntactic/n=5": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.9667,
+    "count": 5
+  },
+  "qwen3-32b/syntactic/n=6": {
+    "median": 0.9166,
+    "q1": 0.875,
+    "q3": 0.9583,
+    "whisker_min": 0.8333,
+    "whisker_max": 1.0,
+    "mean": 0.9166,
+    "count": 2
+  },
+  "qwen3-32b/semantic/n=2": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 0.3333,
+    "whisker_min": 0.0,
+    "whisker_max": 0.75,
+    "mean": 0.2122,
+    "count": 486
+  },
+  "qwen3-32b/semantic/n=3": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 0.45,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.2396,
+    "count": 395
+  },
+  "qwen3-32b/semantic/n=4": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 0.75,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.2647,
+    "count": 260
+  },
+  "qwen3-32b/semantic/n=5": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.3224,
+    "count": 146
+  },
+  "qwen3-32b/semantic/n=6": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.3641,
+    "count": 65
+  },
+  "gpt-5-mini/syntactic/n=2": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.7647,
+    "count": 34
+  },
+  "gpt-5-mini/syntactic/n=3": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8571,
+    "count": 14
+  },
+  "gpt-5-mini/syntactic/n=4": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 1.0,
+    "count": 5
+  },
+  "gpt-5-mini/syntactic/n=5": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 1.0,
+    "count": 1
+  },
+  "gpt-5-mini/syntactic/n=6": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-5-mini/semantic/n=2": {
+    "median": 0.0714,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.4003,
+    "count": 493
+  },
+  "gpt-5-mini/semantic/n=3": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.4168,
+    "count": 450
+  },
+  "gpt-5-mini/semantic/n=4": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.4409,
+    "count": 357
+  },
+  "gpt-5-mini/semantic/n=5": {
+    "median": 0.3333,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.4682,
+    "count": 223
+  },
+  "gpt-5-mini/semantic/n=6": {
+    "median": 0.25,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.451,
+    "count": 102
+  },
+  "gpt-5_vs_claude-opus-4-7/syntactic/n=2": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-5_vs_claude-opus-4-7/syntactic/n=3": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-5_vs_claude-opus-4-7/syntactic/n=4": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-5_vs_claude-opus-4-7/syntactic/n=5": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-5_vs_claude-opus-4-7/syntactic/n=6": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-5_vs_claude-opus-4-7/semantic/n=2": {
+    "median": 1.0,
+    "q1": 0.3333,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.7034,
+    "count": 450
+  },
+  "gpt-5_vs_claude-opus-4-7/semantic/n=3": {
+    "median": 1.0,
+    "q1": 0.5,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.7194,
+    "count": 424
+  },
+  "gpt-5_vs_claude-opus-4-7/semantic/n=4": {
+    "median": 1.0,
+    "q1": 0.5833,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.7402,
+    "count": 387
+  },
+  "gpt-5_vs_claude-opus-4-7/semantic/n=5": {
+    "median": 1.0,
+    "q1": 0.7,
+    "q3": 1.0,
+    "whisker_min": 0.25,
+    "whisker_max": 1.0,
+    "mean": 0.7792,
+    "count": 342
+  },
+  "gpt-5_vs_claude-opus-4-7/semantic/n=6": {
+    "median": 1.0,
+    "q1": 0.8333,
+    "q3": 1.0,
+    "whisker_min": 0.5833,
+    "whisker_max": 1.0,
+    "mean": 0.8361,
+    "count": 208
+  },
+  "gpt-4o_vs_claude-3-5-sonnet/syntactic/n=2": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8235,
+    "count": 17
+  },
+  "gpt-4o_vs_claude-3-5-sonnet/syntactic/n=3": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-4o_vs_claude-3-5-sonnet/syntactic/n=4": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-4o_vs_claude-3-5-sonnet/syntactic/n=5": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-4o_vs_claude-3-5-sonnet/syntactic/n=6": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-4o_vs_claude-3-5-sonnet/semantic/n=2": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.371,
+    "count": 443
+  },
+  "gpt-4o_vs_claude-3-5-sonnet/semantic/n=3": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.3991,
+    "count": 326
+  },
+  "gpt-4o_vs_claude-3-5-sonnet/semantic/n=4": {
+    "median": 0.2833,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.4605,
+    "count": 211
+  },
+  "gpt-4o_vs_claude-3-5-sonnet/semantic/n=5": {
+    "median": 0.5833,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.507,
+    "count": 115
+  },
+  "gpt-4o_vs_claude-3-5-sonnet/semantic/n=6": {
+    "median": 0.9584,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6083,
+    "count": 50
+  },
+  "gpt-4o_vs_claude-4-sonnet/syntactic/n=2": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8667,
+    "count": 15
+  },
+  "gpt-4o_vs_claude-4-sonnet/syntactic/n=3": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-4o_vs_claude-4-sonnet/syntactic/n=4": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-4o_vs_claude-4-sonnet/syntactic/n=5": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-4o_vs_claude-4-sonnet/syntactic/n=6": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "gpt-4o_vs_claude-4-sonnet/semantic/n=2": {
+    "median": 0.75,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5439,
+    "count": 325
+  },
+  "gpt-4o_vs_claude-4-sonnet/semantic/n=3": {
+    "median": 0.8333,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5746,
+    "count": 245
+  },
+  "gpt-4o_vs_claude-4-sonnet/semantic/n=4": {
+    "median": 0.9,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5959,
+    "count": 172
+  },
+  "gpt-4o_vs_claude-4-sonnet/semantic/n=5": {
+    "median": 0.9,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6252,
+    "count": 107
+  },
+  "gpt-4o_vs_claude-4-sonnet/semantic/n=6": {
+    "median": 1.0,
+    "q1": 0.1667,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6925,
+    "count": 29
+  },
+  "claude-3-5-sonnet_vs_claude-4-sonnet/syntactic/n=2": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8205,
+    "count": 39
+  },
+  "claude-3-5-sonnet_vs_claude-4-sonnet/syntactic/n=3": {
+    "median": 1.0,
+    "q1": 0.5,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.7143,
+    "count": 7
+  },
+  "claude-3-5-sonnet_vs_claude-4-sonnet/syntactic/n=4": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "claude-3-5-sonnet_vs_claude-4-sonnet/syntactic/n=5": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "claude-3-5-sonnet_vs_claude-4-sonnet/syntactic/n=6": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "claude-3-5-sonnet_vs_claude-4-sonnet/semantic/n=2": {
+    "median": 0.75,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5689,
+    "count": 408
+  },
+  "claude-3-5-sonnet_vs_claude-4-sonnet/semantic/n=3": {
+    "median": 0.8333,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.58,
+    "count": 332
+  },
+  "claude-3-5-sonnet_vs_claude-4-sonnet/semantic/n=4": {
+    "median": 0.9,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6015,
+    "count": 265
+  },
+  "claude-3-5-sonnet_vs_claude-4-sonnet/semantic/n=5": {
+    "median": 0.9167,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6426,
+    "count": 185
+  },
+  "claude-3-5-sonnet_vs_claude-4-sonnet/semantic/n=6": {
+    "median": 1.0,
+    "q1": 0.7916,
+    "q3": 1.0,
+    "whisker_min": 0.75,
+    "whisker_max": 1.0,
+    "mean": 0.7606,
+    "count": 47
+  },
+  "devstral-2-123b_vs_gpt-4o/syntactic/n=2": {
+    "median": 1.0,
+    "q1": 0.75,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.75,
+    "count": 8
+  },
+  "devstral-2-123b_vs_gpt-4o/syntactic/n=3": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "devstral-2-123b_vs_gpt-4o/syntactic/n=4": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "devstral-2-123b_vs_gpt-4o/syntactic/n=5": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "devstral-2-123b_vs_gpt-4o/syntactic/n=6": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "devstral-2-123b_vs_gpt-4o/semantic/n=2": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 0.9,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.3329,
+    "count": 419
+  },
+  "devstral-2-123b_vs_gpt-4o/semantic/n=3": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.3679,
+    "count": 301
+  },
+  "devstral-2-123b_vs_gpt-4o/semantic/n=4": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.3892,
+    "count": 180
+  },
+  "devstral-2-123b_vs_gpt-4o/semantic/n=5": {
+    "median": 0.3,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.4439,
+    "count": 85
+  },
+  "devstral-2-123b_vs_gpt-4o/semantic/n=6": {
+    "median": 0.6667,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5278,
+    "count": 27
+  },
+  "devstral-2-123b_vs_claude-3-5-sonnet/syntactic/n=2": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8333,
+    "count": 18
+  },
+  "devstral-2-123b_vs_claude-3-5-sonnet/syntactic/n=3": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 1.0,
+    "count": 3
+  },
+  "devstral-2-123b_vs_claude-3-5-sonnet/syntactic/n=4": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "devstral-2-123b_vs_claude-3-5-sonnet/syntactic/n=5": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "devstral-2-123b_vs_claude-3-5-sonnet/syntactic/n=6": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "devstral-2-123b_vs_claude-3-5-sonnet/semantic/n=2": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.3741,
+    "count": 440
+  },
+  "devstral-2-123b_vs_claude-3-5-sonnet/semantic/n=3": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.3949,
+    "count": 353
+  },
+  "devstral-2-123b_vs_claude-3-5-sonnet/semantic/n=4": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.4218,
+    "count": 242
+  },
+  "devstral-2-123b_vs_claude-3-5-sonnet/semantic/n=5": {
+    "median": 0.1,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.4559,
+    "count": 136
+  },
+  "devstral-2-123b_vs_claude-3-5-sonnet/semantic/n=6": {
+    "median": 0.5834,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5,
+    "count": 44
+  },
+  "devstral-2-123b_vs_claude-4-sonnet/syntactic/n=2": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.84,
+    "count": 25
+  },
+  "devstral-2-123b_vs_claude-4-sonnet/syntactic/n=3": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8889,
+    "count": 9
+  },
+  "devstral-2-123b_vs_claude-4-sonnet/syntactic/n=4": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 1.0,
+    "count": 1
+  },
+  "devstral-2-123b_vs_claude-4-sonnet/syntactic/n=5": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "devstral-2-123b_vs_claude-4-sonnet/syntactic/n=6": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "devstral-2-123b_vs_claude-4-sonnet/semantic/n=2": {
+    "median": 0.8,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5503,
+    "count": 359
+  },
+  "devstral-2-123b_vs_claude-4-sonnet/semantic/n=3": {
+    "median": 0.8333,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5633,
+    "count": 291
+  },
+  "devstral-2-123b_vs_claude-4-sonnet/semantic/n=4": {
+    "median": 0.9,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5793,
+    "count": 215
+  },
+  "devstral-2-123b_vs_claude-4-sonnet/semantic/n=5": {
+    "median": 0.9,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5866,
+    "count": 144
+  },
+  "devstral-2-123b_vs_claude-4-sonnet/semantic/n=6": {
+    "median": 1.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5741,
+    "count": 27
+  },
+  "kimi-k2-instruct_vs_qwen3-32b/syntactic/n=2": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8838,
+    "count": 19
+  },
+  "kimi-k2-instruct_vs_qwen3-32b/syntactic/n=3": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.8333,
+    "count": 6
+  },
+  "kimi-k2-instruct_vs_qwen3-32b/syntactic/n=4": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "kimi-k2-instruct_vs_qwen3-32b/syntactic/n=5": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "kimi-k2-instruct_vs_qwen3-32b/syntactic/n=6": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "kimi-k2-instruct_vs_qwen3-32b/semantic/n=2": {
+    "median": 0.25,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.4522,
+    "count": 298
+  },
+  "kimi-k2-instruct_vs_qwen3-32b/semantic/n=3": {
+    "median": 0.5209,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.4931,
+    "count": 204
+  },
+  "kimi-k2-instruct_vs_qwen3-32b/semantic/n=4": {
+    "median": 0.7,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5335,
+    "count": 129
+  },
+  "kimi-k2-instruct_vs_qwen3-32b/semantic/n=5": {
+    "median": 1.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5997,
+    "count": 60
+  },
+  "kimi-k2-instruct_vs_qwen3-32b/semantic/n=6": {
+    "median": 1.0,
+    "q1": 0.4583,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.7278,
+    "count": 15
+  },
+  "kimi-k2-instruct_vs_gpt-5-mini/syntactic/n=2": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 0.9,
+    "count": 10
+  },
+  "kimi-k2-instruct_vs_gpt-5-mini/syntactic/n=3": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 1.0,
+    "count": 4
+  },
+  "kimi-k2-instruct_vs_gpt-5-mini/syntactic/n=4": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "kimi-k2-instruct_vs_gpt-5-mini/syntactic/n=5": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "kimi-k2-instruct_vs_gpt-5-mini/syntactic/n=6": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "kimi-k2-instruct_vs_gpt-5-mini/semantic/n=2": {
+    "median": 0.75,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.5668,
+    "count": 365
+  },
+  "kimi-k2-instruct_vs_gpt-5-mini/semantic/n=3": {
+    "median": 0.8333,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6114,
+    "count": 276
+  },
+  "kimi-k2-instruct_vs_gpt-5-mini/semantic/n=4": {
+    "median": 1.0,
+    "q1": 0.175,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6665,
+    "count": 194
+  },
+  "kimi-k2-instruct_vs_gpt-5-mini/semantic/n=5": {
+    "median": 1.0,
+    "q1": 0.175,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6683,
+    "count": 102
+  },
+  "kimi-k2-instruct_vs_gpt-5-mini/semantic/n=6": {
+    "median": 1.0,
+    "q1": 0.0833,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6272,
+    "count": 19
+  },
+  "qwen3-32b_vs_gpt-5-mini/syntactic/n=2": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 1.0,
+    "count": 1
+  },
+  "qwen3-32b_vs_gpt-5-mini/syntactic/n=3": {
+    "median": 1.0,
+    "q1": 1.0,
+    "q3": 1.0,
+    "whisker_min": 1.0,
+    "whisker_max": 1.0,
+    "mean": 1.0,
+    "count": 1
+  },
+  "qwen3-32b_vs_gpt-5-mini/syntactic/n=4": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "qwen3-32b_vs_gpt-5-mini/syntactic/n=5": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "qwen3-32b_vs_gpt-5-mini/syntactic/n=6": {
+    "median": null,
+    "q1": null,
+    "q3": null,
+    "whisker_min": null,
+    "whisker_max": null,
+    "mean": null,
+    "count": 0
+  },
+  "qwen3-32b_vs_gpt-5-mini/semantic/n=2": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.3574,
+    "count": 299
+  },
+  "qwen3-32b_vs_gpt-5-mini/semantic/n=3": {
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.4086,
+    "count": 195
+  },
+  "qwen3-32b_vs_gpt-5-mini/semantic/n=4": {
+    "median": 0.4083,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.4612,
+    "count": 112
+  },
+  "qwen3-32b_vs_gpt-5-mini/semantic/n=5": {
+    "median": 0.4167,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.4594,
+    "count": 53
+  },
+  "qwen3-32b_vs_gpt-5-mini/semantic/n=6": {
+    "median": 1.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "whisker_min": 0.0,
+    "whisker_max": 1.0,
+    "mean": 0.6212,
+    "count": 11
+  }
+}

@@ -1,0 +1,13 @@
+tier,difficulty,difficulty_short,baseline_n,baseline_rate,semantic_6_6_total,semantic_6_6_resolved,semantic_6_6_rate,syntactic_6_6_total,syntactic_6_6_resolved,syntactic_6_6_rate
+large,<15 min fix,Easy,387,78.6,272,224,82.4,81,74,91.4
+large,15 min - 1 hour,Medium,522,59.0,305,192,63.0,53,41,77.4
+large,1-4 hours,Hard,84,30.0,24,11,45.8,2,2,100.0
+large,>4 hours,Very Hard,6,0.0,2,0,0.0,0,0,0
+mid,<15 min fix,Easy,774,51.4,242,147,60.7,1,1,100.0
+mid,15 min - 1 hour,Medium,1037,27.1,207,59,28.5,0,0,0
+mid,1-4 hours,Hard,168,10.8,24,2,8.3,0,0,0
+mid,>4 hours,Very Hard,12,0.0,6,0,0.0,0,0,0
+small,<15 min fix,Easy,581,44.3,115,64,55.7,3,2,66.7
+small,15 min - 1 hour,Medium,780,25.8,117,38,32.5,0,0,0
+small,1-4 hours,Hard,125,6.7,10,1,10.0,0,0,0
+small,>4 hours,Very Hard,9,3.7,2,0,0.0,0,0,0

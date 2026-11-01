@@ -1,0 +1,907 @@
+{
+  "method": "syntactic",
+  "results": {
+    "gpt-5": {
+      "N=3": {
+        "full_bucket": "3/3",
+        "full_precision": null,
+        "full_n": 0,
+        "min_bucket": "1/3",
+        "min_precision": 0.3978,
+        "min_n": 445,
+        "contrast": null,
+        "bucket_details": {
+          "1/3": {
+            "total": 445,
+            "resolved": 177
+          },
+          "2/3": {
+            "total": 3,
+            "resolved": 3
+          }
+        }
+      },
+      "N=4": {
+        "full_bucket": "4/4",
+        "full_precision": null,
+        "full_n": 0,
+        "min_bucket": "1/4",
+        "min_precision": 0.3604,
+        "min_n": 444,
+        "contrast": null,
+        "bucket_details": {
+          "1/4": {
+            "total": 444,
+            "resolved": 160
+          },
+          "2/4": {
+            "total": 4,
+            "resolved": 3
+          }
+        }
+      },
+      "N=5": {
+        "full_bucket": "5/5",
+        "full_precision": null,
+        "full_n": 0,
+        "min_bucket": "1/5",
+        "min_precision": 0.3581,
+        "min_n": 444,
+        "contrast": null,
+        "bucket_details": {
+          "1/5": {
+            "total": 444,
+            "resolved": 159
+          },
+          "2/5": {
+            "total": 3,
+            "resolved": 3
+          },
+          "3/5": {
+            "total": 1,
+            "resolved": 0
+          }
+        }
+      },
+      "N=6": {
+        "full_bucket": "6/6",
+        "full_precision": null,
+        "full_n": 0,
+        "min_bucket": "1/6",
+        "min_precision": 0.3463,
+        "min_n": 436,
+        "contrast": null,
+        "bucket_details": {
+          "1/6": {
+            "total": 436,
+            "resolved": 151
+          },
+          "3/6": {
+            "total": 2,
+            "resolved": 2
+          },
+          "2/6": {
+            "total": 1,
+            "resolved": 1
+          },
+          "4/6": {
+            "total": 1,
+            "resolved": 0
+          }
+        }
+      }
+    },
+    "claude-opus-4-7": {
+      "N=3": {
+        "full_bucket": "3/3",
+        "full_precision": 0.8701,
+        "full_n": 154,
+        "min_bucket": "1/3",
+        "min_precision": 0.4209,
+        "min_n": 278,
+        "contrast": 0.4493,
+        "bucket_details": {
+          "3/3": {
+            "total": 154,
+            "resolved": 134
+          },
+          "1/3": {
+            "total": 278,
+            "resolved": 117
+          },
+          "2/3": {
+            "total": 50,
+            "resolved": 36
+          }
+        }
+      },
+      "N=4": {
+        "full_bucket": "4/4",
+        "full_precision": 0.8681,
+        "full_n": 144,
+        "min_bucket": "1/4",
+        "min_precision": 0.4103,
+        "min_n": 273,
+        "contrast": 0.4578,
+        "bucket_details": {
+          "4/4": {
+            "total": 144,
+            "resolved": 125
+          },
+          "1/4": {
+            "total": 273,
+            "resolved": 112
+          },
+          "3/4": {
+            "total": 36,
+            "resolved": 23
+          },
+          "2/4": {
+            "total": 28,
+            "resolved": 20
+          }
+        }
+      },
+      "N=5": {
+        "full_bucket": "5/5",
+        "full_precision": 0.8696,
+        "full_n": 138,
+        "min_bucket": "1/5",
+        "min_precision": 0.3918,
+        "min_n": 268,
+        "contrast": 0.4778,
+        "bucket_details": {
+          "5/5": {
+            "total": 138,
+            "resolved": 120
+          },
+          "1/5": {
+            "total": 268,
+            "resolved": 105
+          },
+          "4/5": {
+            "total": 30,
+            "resolved": 18
+          },
+          "2/5": {
+            "total": 24,
+            "resolved": 18
+          },
+          "3/5": {
+            "total": 19,
+            "resolved": 12
+          }
+        }
+      },
+      "N=6": {
+        "full_bucket": "6/6",
+        "full_precision": 0.8667,
+        "full_n": 135,
+        "min_bucket": "1/6",
+        "min_precision": 0.3861,
+        "min_n": 259,
+        "contrast": 0.4806,
+        "bucket_details": {
+          "6/6": {
+            "total": 135,
+            "resolved": 117
+          },
+          "1/6": {
+            "total": 259,
+            "resolved": 100
+          },
+          "4/6": {
+            "total": 18,
+            "resolved": 11
+          },
+          "2/6": {
+            "total": 29,
+            "resolved": 19
+          },
+          "5/6": {
+            "total": 28,
+            "resolved": 18
+          },
+          "3/6": {
+            "total": 10,
+            "resolved": 8
+          }
+        }
+      }
+    },
+    "claude-4-sonnet": {
+      "N=3": {
+        "full_bucket": "3/3",
+        "full_precision": 1.0,
+        "full_n": 1,
+        "min_bucket": "1/3",
+        "min_precision": 0.433,
+        "min_n": 194,
+        "contrast": 0.567,
+        "bucket_details": {
+          "1/3": {
+            "total": 194,
+            "resolved": 84
+          },
+          "3/3": {
+            "total": 1,
+            "resolved": 1
+          },
+          "2/3": {
+            "total": 9,
+            "resolved": 5
+          }
+        }
+      },
+      "N=4": {
+        "full_bucket": "4/4",
+        "full_precision": 1.0,
+        "full_n": 1,
+        "min_bucket": "1/4",
+        "min_precision": 0.3729,
+        "min_n": 177,
+        "contrast": 0.6271,
+        "bucket_details": {
+          "1/4": {
+            "total": 177,
+            "resolved": 66
+          },
+          "2/4": {
+            "total": 24,
+            "resolved": 17
+          },
+          "4/4": {
+            "total": 1,
+            "resolved": 1
+          },
+          "3/4": {
+            "total": 2,
+            "resolved": 1
+          }
+        }
+      },
+      "N=5": {
+        "full_bucket": "5/5",
+        "full_precision": null,
+        "full_n": 0,
+        "min_bucket": "1/5",
+        "min_precision": 0.3503,
+        "min_n": 177,
+        "contrast": null,
+        "bucket_details": {
+          "1/5": {
+            "total": 177,
+            "resolved": 62
+          },
+          "2/5": {
+            "total": 24,
+            "resolved": 17
+          },
+          "4/5": {
+            "total": 1,
+            "resolved": 1
+          },
+          "3/5": {
+            "total": 2,
+            "resolved": 1
+          }
+        }
+      },
+      "N=6": {
+        "full_bucket": "6/6",
+        "full_precision": null,
+        "full_n": 0,
+        "min_bucket": "1/6",
+        "min_precision": 0.2975,
+        "min_n": 158,
+        "contrast": null,
+        "bucket_details": {
+          "1/6": {
+            "total": 158,
+            "resolved": 47
+          },
+          "3/6": {
+            "total": 17,
+            "resolved": 12
+          },
+          "2/6": {
+            "total": 27,
+            "resolved": 18
+          },
+          "5/6": {
+            "total": 1,
+            "resolved": 1
+          },
+          "4/6": {
+            "total": 1,
+            "resolved": 1
+          }
+        }
+      }
+    },
+    "gpt-4o": {
+      "N=3": {
+        "full_bucket": "3/3",
+        "full_precision": null,
+        "full_n": 0,
+        "min_bucket": "1/3",
+        "min_precision": 0.1063,
+        "min_n": 395,
+        "contrast": null,
+        "bucket_details": {
+          "1/3": {
+            "total": 395,
+            "resolved": 42
+          }
+        }
+      },
+      "N=4": {
+        "full_bucket": "4/4",
+        "full_precision": null,
+        "full_n": 0,
+        "min_bucket": "1/4",
+        "min_precision": 0.0939,
+        "min_n": 394,
+        "contrast": null,
+        "bucket_details": {
+          "1/4": {
+            "total": 394,
+            "resolved": 37
+          }
+        }
+      },
+      "N=5": {
+        "full_bucket": "5/5",
+        "full_precision": null,
+        "full_n": 0,
+        "min_bucket": "1/5",
+        "min_precision": 0.0939,
+        "min_n": 394,
+        "contrast": null,
+        "bucket_details": {
+          "1/5": {
+            "total": 394,
+            "resolved": 37
+          }
+        }
+      },
+      "N=6": {
+        "full_bucket": "6/6",
+        "full_precision": null,
+        "full_n": 0,
+        "min_bucket": "1/6",
+        "min_precision": 0.0863,
+        "min_n": 394,
+        "contrast": null,
+        "bucket_details": {
+          "1/6": {
+            "total": 394,
+            "resolved": 34
+          }
+        }
+      }
+    },
+    "claude-3-5-sonnet": {
+      "N=3": {
+        "full_bucket": "3/3",
+        "full_precision": null,
+        "full_n": 0,
+        "min_bucket": "1/3",
+        "min_precision": 0.1694,
+        "min_n": 431,
+        "contrast": null,
+        "bucket_details": {
+          "1/3": {
+            "total": 431,
+            "resolved": 73
+          }
+        }
+      },
+      "N=4": {
+        "full_bucket": "4/4",
+        "full_precision": null,
+        "full_n": 0,
+        "min_bucket": "1/4",
+        "min_precision": 0.1558,
+        "min_n": 430,
+        "contrast": null,
+        "bucket_details": {
+          "1/4": {
+            "total": 430,
+            "resolved": 67
+          }
+        }
+      },
+      "N=5": {
+        "full_bucket": "5/5",
+        "full_precision": null,
+        "full_n": 0,
+        "min_bucket": "1/5",
+        "min_precision": 0.1442,
+        "min_n": 430,
+        "contrast": null,
+        "bucket_details": {
+          "1/5": {
+            "total": 430,
+            "resolved": 62
+          }
+        }
+      },
+      "N=6": {
+        "full_bucket": "6/6",
+        "full_precision": null,
+        "full_n": 0,
+        "min_bucket": "1/6",
+        "min_precision": 0.1375,
+        "min_n": 429,
+        "contrast": null,
+        "bucket_details": {
+          "1/6": {
+            "total": 429,
+            "resolved": 59
+          }
+        }
+      }
+    },
+    "devstral-2-123b": {
+      "N=3": {
+        "full_bucket": "3/3",
+        "full_precision": 0.8,
+        "full_n": 5,
+        "min_bucket": "1/3",
+        "min_precision": 0.1602,
+        "min_n": 337,
+        "contrast": 0.6398,
+        "bucket_details": {
+          "1/3": {
+            "total": 337,
+            "resolved": 54
+          },
+          "3/3": {
+            "total": 5,
+            "resolved": 4
+          },
+          "2/3": {
+            "total": 13,
+            "resolved": 4
+          }
+        }
+      },
+      "N=4": {
+        "full_bucket": "4/4",
+        "full_precision": 1.0,
+        "full_n": 2,
+        "min_bucket": "1/4",
+        "min_precision": 0.1377,
+        "min_n": 334,
+        "contrast": 0.8623,
+        "bucket_details": {
+          "1/4": {
+            "total": 334,
+            "resolved": 46
+          },
+          "4/4": {
+            "total": 2,
+            "resolved": 2
+          },
+          "2/4": {
+            "total": 12,
+            "resolved": 3
+          },
+          "3/4": {
+            "total": 7,
+            "resolved": 2
+          }
+        }
+      },
+      "N=5": {
+        "full_bucket": "5/5",
+        "full_precision": 1.0,
+        "full_n": 2,
+        "min_bucket": "1/5",
+        "min_precision": 0.1189,
+        "min_n": 328,
+        "contrast": 0.8811,
+        "bucket_details": {
+          "1/5": {
+            "total": 328,
+            "resolved": 39
+          },
+          "2/5": {
+            "total": 13,
+            "resolved": 3
+          },
+          "5/5": {
+            "total": 2,
+            "resolved": 2
+          },
+          "3/5": {
+            "total": 9,
+            "resolved": 2
+          },
+          "4/5": {
+            "total": 2,
+            "resolved": 1
+          }
+        }
+      },
+      "N=6": {
+        "full_bucket": "6/6",
+        "full_precision": 1.0,
+        "full_n": 1,
+        "min_bucket": "1/6",
+        "min_precision": 0.0864,
+        "min_n": 324,
+        "contrast": 0.9136,
+        "bucket_details": {
+          "1/6": {
+            "total": 324,
+            "resolved": 28
+          },
+          "2/6": {
+            "total": 14,
+            "resolved": 3
+          },
+          "5/6": {
+            "total": 3,
+            "resolved": 1
+          },
+          "3/6": {
+            "total": 9,
+            "resolved": 2
+          },
+          "4/6": {
+            "total": 3,
+            "resolved": 1
+          },
+          "6/6": {
+            "total": 1,
+            "resolved": 1
+          }
+        }
+      }
+    },
+    "kimi-k2-instruct": {
+      "N=3": {
+        "full_bucket": "3/3",
+        "full_precision": 1.0,
+        "full_n": 3,
+        "min_bucket": "1/3",
+        "min_precision": 0.2866,
+        "min_n": 157,
+        "contrast": 0.7134,
+        "bucket_details": {
+          "1/3": {
+            "total": 157,
+            "resolved": 45
+          },
+          "2/3": {
+            "total": 6,
+            "resolved": 2
+          },
+          "3/3": {
+            "total": 3,
+            "resolved": 3
+          }
+        }
+      },
+      "N=4": {
+        "full_bucket": "4/4",
+        "full_precision": 1.0,
+        "full_n": 2,
+        "min_bucket": "1/4",
+        "min_precision": 0.2756,
+        "min_n": 156,
+        "contrast": 0.7244,
+        "bucket_details": {
+          "1/4": {
+            "total": 156,
+            "resolved": 43
+          },
+          "2/4": {
+            "total": 4,
+            "resolved": 2
+          },
+          "3/4": {
+            "total": 4,
+            "resolved": 1
+          },
+          "4/4": {
+            "total": 2,
+            "resolved": 2
+          }
+        }
+      },
+      "N=5": {
+        "full_bucket": "5/5",
+        "full_precision": 1.0,
+        "full_n": 1,
+        "min_bucket": "1/5",
+        "min_precision": 0.2564,
+        "min_n": 156,
+        "contrast": 0.7436,
+        "bucket_details": {
+          "1/5": {
+            "total": 156,
+            "resolved": 40
+          },
+          "2/5": {
+            "total": 4,
+            "resolved": 2
+          },
+          "3/5": {
+            "total": 4,
+            "resolved": 1
+          },
+          "5/5": {
+            "total": 1,
+            "resolved": 1
+          },
+          "4/5": {
+            "total": 1,
+            "resolved": 1
+          }
+        }
+      },
+      "N=6": {
+        "full_bucket": "6/6",
+        "full_precision": 1.0,
+        "full_n": 1,
+        "min_bucket": "1/6",
+        "min_precision": 0.2479,
+        "min_n": 121,
+        "contrast": 0.7521,
+        "bucket_details": {
+          "2/6": {
+            "total": 36,
+            "resolved": 11
+          },
+          "1/6": {
+            "total": 121,
+            "resolved": 30
+          },
+          "3/6": {
+            "total": 3,
+            "resolved": 1
+          },
+          "4/6": {
+            "total": 4,
+            "resolved": 1
+          },
+          "6/6": {
+            "total": 1,
+            "resolved": 1
+          },
+          "5/6": {
+            "total": 1,
+            "resolved": 1
+          }
+        }
+      }
+    },
+    "qwen3-32b": {
+      "N=3": {
+        "full_bucket": "3/3",
+        "full_precision": 1.0,
+        "full_n": 4,
+        "min_bucket": "1/3",
+        "min_precision": 0.0868,
+        "min_n": 357,
+        "contrast": 0.9132,
+        "bucket_details": {
+          "1/3": {
+            "total": 357,
+            "resolved": 31
+          },
+          "3/3": {
+            "total": 4,
+            "resolved": 4
+          },
+          "2/3": {
+            "total": 6,
+            "resolved": 3
+          }
+        }
+      },
+      "N=4": {
+        "full_bucket": "4/4",
+        "full_precision": 1.0,
+        "full_n": 3,
+        "min_bucket": "1/4",
+        "min_precision": 0.0653,
+        "min_n": 352,
+        "contrast": 0.9347,
+        "bucket_details": {
+          "1/4": {
+            "total": 352,
+            "resolved": 23
+          },
+          "2/4": {
+            "total": 5,
+            "resolved": 2
+          },
+          "4/4": {
+            "total": 3,
+            "resolved": 3
+          },
+          "3/4": {
+            "total": 5,
+            "resolved": 4
+          }
+        }
+      },
+      "N=5": {
+        "full_bucket": "5/5",
+        "full_precision": 1.0,
+        "full_n": 2,
+        "min_bucket": "1/5",
+        "min_precision": 0.0543,
+        "min_n": 350,
+        "contrast": 0.9457,
+        "bucket_details": {
+          "1/5": {
+            "total": 350,
+            "resolved": 19
+          },
+          "2/5": {
+            "total": 6,
+            "resolved": 3
+          },
+          "3/5": {
+            "total": 3,
+            "resolved": 2
+          },
+          "5/5": {
+            "total": 2,
+            "resolved": 2
+          },
+          "4/5": {
+            "total": 4,
+            "resolved": 3
+          }
+        }
+      },
+      "N=6": {
+        "full_bucket": "6/6",
+        "full_precision": 1.0,
+        "full_n": 1,
+        "min_bucket": "1/6",
+        "min_precision": 0.0407,
+        "min_n": 344,
+        "contrast": 0.9593,
+        "bucket_details": {
+          "1/6": {
+            "total": 344,
+            "resolved": 14
+          },
+          "2/6": {
+            "total": 5,
+            "resolved": 1
+          },
+          "4/6": {
+            "total": 2,
+            "resolved": 1
+          },
+          "3/6": {
+            "total": 2,
+            "resolved": 2
+          },
+          "5/6": {
+            "total": 3,
+            "resolved": 2
+          },
+          "6/6": {
+            "total": 1,
+            "resolved": 1
+          }
+        }
+      }
+    },
+    "gpt-5-mini": {
+      "N=3": {
+        "full_bucket": "3/3",
+        "full_precision": 1.0,
+        "full_n": 1,
+        "min_bucket": "1/3",
+        "min_precision": 0.2034,
+        "min_n": 236,
+        "contrast": 0.7966,
+        "bucket_details": {
+          "2/3": {
+            "total": 4,
+            "resolved": 1
+          },
+          "1/3": {
+            "total": 236,
+            "resolved": 48
+          },
+          "3/3": {
+            "total": 1,
+            "resolved": 1
+          }
+        }
+      },
+      "N=4": {
+        "full_bucket": "4/4",
+        "full_precision": null,
+        "full_n": 0,
+        "min_bucket": "1/4",
+        "min_precision": 0.1717,
+        "min_n": 233,
+        "contrast": null,
+        "bucket_details": {
+          "2/4": {
+            "total": 5,
+            "resolved": 2
+          },
+          "1/4": {
+            "total": 233,
+            "resolved": 40
+          },
+          "3/4": {
+            "total": 2,
+            "resolved": 1
+          }
+        }
+      },
+      "N=5": {
+        "full_bucket": "5/5",
+        "full_precision": null,
+        "full_n": 0,
+        "min_bucket": "1/5",
+        "min_precision": 0.1552,
+        "min_n": 232,
+        "contrast": null,
+        "bucket_details": {
+          "2/5": {
+            "total": 5,
+            "resolved": 3
+          },
+          "1/5": {
+            "total": 232,
+            "resolved": 36
+          },
+          "4/5": {
+            "total": 2,
+            "resolved": 1
+          },
+          "3/5": {
+            "total": 1,
+            "resolved": 0
+          }
+        }
+      },
+      "N=6": {
+        "full_bucket": "6/6",
+        "full_precision": null,
+        "full_n": 0,
+        "min_bucket": "1/6",
+        "min_precision": 0.1429,
+        "min_n": 231,
+        "contrast": null,
+        "bucket_details": {
+          "2/6": {
+            "total": 6,
+            "resolved": 3
+          },
+          "1/6": {
+            "total": 231,
+            "resolved": 33
+          },
+          "5/6": {
+            "total": 1,
+            "resolved": 1
+          },
+          "4/6": {
+            "total": 1,
+            "resolved": 0
+          },
+          "3/6": {
+            "total": 1,
+            "resolved": 0
+          }
+        }
+      }
+    }
+  }
+}
