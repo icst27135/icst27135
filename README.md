@@ -28,7 +28,7 @@ The scripts below implement the full analysis. They are listed in execution orde
 2. `analysis_run.py --force` — Within-model convergence and cross-model agreement computation.
 3. `analysis_cost_effectiveness.py --force` — Cost-effectiveness analysis and Figures 2 and 3.
 4. `analysis_convergence_to_incorrect_patches.py` — Characterizes bugs where convergence produces incorrect patches.
-5. `analysis_difficulty.py` — Convergence correctness stratified by bug difficulty (Tables 1 and 2).
+5. `analysis_difficulty.py` — Convergence correctness by bug difficulty (Tables 2 and 3).
 6. `analysis_stats_tests.py` — Fisher's exact tests for statistical significance.
 7. `analysis_multiple_testing.py` — Benjamini-Hochberg correction for multiple comparisons.
 8. `analysis_sensitivity_n.py` — Sensitivity analysis varying the number of runs (N=3 to 6).
